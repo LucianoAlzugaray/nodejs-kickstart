@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-scaffold",
+  "version": "1.0.0",
+  "description": "A kickstart project to nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianoalzugaray/nodejs-kickstart.git"
+  },
+  "keywords": [
+    "kickstart",
+    "nodejs",
+    "scaffold"
+  ],
+  "author": "Luciano Alzugaray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianoalzugaray/nodejs-kickstart/issues"
+  },
+  "homepage": "https://github.com/lucianoalzugaray/nodejs-kickstart#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
